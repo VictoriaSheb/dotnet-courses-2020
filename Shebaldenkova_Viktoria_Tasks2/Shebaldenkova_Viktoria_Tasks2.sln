@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{8724A5B6-A43F-4AB1-B7CA-160117475A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{4054DD7D-1A89-4667-998A-C176FEFFBEF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibArray", "LibArray\LibArray.csproj", "{77939878-E239-4AC3-BDD8-A34B4DA6EB2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8724A5B6-A43F-4AB1-B7CA-160117475A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8724A5B6-A43F-4AB1-B7CA-160117475A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8724A5B6-A43F-4AB1-B7CA-160117475A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8724A5B6-A43F-4AB1-B7CA-160117475A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4054DD7D-1A89-4667-998A-C176FEFFBEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4054DD7D-1A89-4667-998A-C176FEFFBEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4054DD7D-1A89-4667-998A-C176FEFFBEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4054DD7D-1A89-4667-998A-C176FEFFBEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77939878-E239-4AC3-BDD8-A34B4DA6EB2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77939878-E239-4AC3-BDD8-A34B4DA6EB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77939878-E239-4AC3-BDD8-A34B4DA6EB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77939878-E239-4AC3-BDD8-A34B4DA6EB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7AEC0B-0D0A-4D1A-8CB8-1712EABD800C}
+	EndGlobalSection
+EndGlobal
