@@ -4,24 +4,28 @@ namespace Task4
 {
     class Picture
     {
-        public void Input()
+        int numberOfLines { set; get; }
+        public bool Input()
         {
-            int N;
-            if (int.TryParse(Console.ReadLine(), out N) == false)
-                Console.WriteLine("Eror");
-            else if (N > 0)
-                Painting(N);
+            int readNumberOfLines;
+            if (int.TryParse(Console.ReadLine(), out readNumberOfLines) == false)
+                Console.WriteLine("Ошибка: подразумевается целое число");
+            else if (readNumberOfLines > 0)
+            {
+                numberOfLines = readNumberOfLines;
+                return true;
+            }
             else
-                Console.WriteLine("Eror");
-            Console.ReadLine();
+                Console.WriteLine("Ошибка: значение не может быть меньше нуля");
+            return false;
         }
 
-        void Painting(int N)
+        public void Painting()
         {
             string elements;
-            for (int numberTriangle = 1; numberTriangle <= N; numberTriangle++)
+            for (int numberTriangle = 1; numberTriangle <= numberOfLines; numberTriangle++)
             {
-                int left = N - 1;
+                int left = numberOfLines - 1;
                 elements = "*";
                 for (int rowTriangle = 0; rowTriangle < numberTriangle; rowTriangle++)
                 {
@@ -31,6 +35,7 @@ namespace Task4
                     left--;
                 }
             }
+            Console.ReadLine();
         }
     }
 }

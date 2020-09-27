@@ -8,7 +8,9 @@ namespace Task2
         {
             Console.WriteLine("Введите N - число для формирования рисунка№1:");
             Picture picture = new Picture();
-            picture.Input();
+            bool status = picture.Input();
+            if (status==true)
+                picture.Painting();
         }
     }
 }

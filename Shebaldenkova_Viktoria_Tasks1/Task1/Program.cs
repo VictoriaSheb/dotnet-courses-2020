@@ -6,7 +6,7 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            FigureSide side = new FigureSide();
+            ValidationFigureSide side = new ValidationFigureSide();
             int a;
             int b;
             Console.WriteLine("Данная программа считает площадь прямоугольника со сторонами a и b.");

@@ -8,7 +8,9 @@ namespace Task4
         {
             Console.WriteLine("Введите N - число для формирования рисунка№3 из N треугольников:");
             Picture picture = new Picture();
-            picture.Input();
+            bool status = picture.Input();
+            if (status == true)
+                picture.Painting();
         }
     }
 }
