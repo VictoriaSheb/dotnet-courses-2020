@@ -1,0 +1,10 @@
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\bin\Debug\Task4.exe.config
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\bin\Debug\Task4.exe
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\bin\Debug\Task4.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\bin\Debug\LibArray.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\bin\Debug\LibArray.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\obj\Debug\Task4.csproj.CopyComplete
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\obj\Debug\Task4.exe
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks2\Task4\obj\Debug\Task4.pdb

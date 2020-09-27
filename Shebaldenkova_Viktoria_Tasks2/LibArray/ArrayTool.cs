@@ -12,8 +12,18 @@ namespace LibArray
             return arrayСompletion;
         }
 
-        public int[,,] Сompletion(int[,,] arrayСompletion, Random rand, int first, int second, int third)
+        public int[,] Сompletion(int[,] arrayСompletion, int first, int second)
         {
+            Random rand = new Random();
+            for (int x = 0; x < first; x++)
+                for (int y = 0; y < second; y++)
+                    arrayСompletion[x,y] = rand.Next(-3, 4);
+            return arrayСompletion;
+        }
+
+        public int[,,] Сompletion(int[,,] arrayСompletion, int first, int second, int third)
+        {
+            Random rand = new Random();
             for (int x = 0; x < first; x++)
                 for (int y = 0; y < second; y++)
                     for (int z = 0; z < third; z++)
@@ -29,6 +39,31 @@ namespace LibArray
             }
             Console.CursorTop++;
             Console.CursorLeft = 0;
+        }
+
+        public void View(int[,] arrayView, int first, int second) 
+        {
+            int leftNow;
+            int leftMax = 0;
+            int top = Console.CursorTop;
+            for (int x = 0; x < first; x++)
+            {
+                Console.CursorTop = top;
+                Console.CursorLeft = leftMax;
+                leftNow = leftMax;
+                for (int y = 0; y < second; y++)
+                {
+                    if (arrayView[x, y] >= 0)
+                        Console.Write(" ");
+                    Console.Write(arrayView[x, y] + "  ");
+                    if (leftMax < Console.CursorLeft)
+                        leftMax = Console.CursorLeft;
+                    Console.CursorLeft = leftNow;
+                    Console.CursorTop++;
+                }
+                Console.WriteLine();
+            }
+
         }
 
         public void View(int[,,] arrayView, int first, int second, int third)

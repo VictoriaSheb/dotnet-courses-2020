@@ -13,7 +13,7 @@ namespace Task2
             int[,,] array = new int[size1, size2, size3];
 
             ArrayTool tool = new ArrayTool();
-            array=tool.Сompletion(array,new Random(), size1, size2, size3);
+            array=tool.Сompletion(array, size1, size2, size3);
 
             Console.WriteLine("Исходный 3-ехмерный массив:");
             Console.WriteLine();
