@@ -4,7 +4,7 @@ namespace LibArray
 {
     public class ArrayTool
     {
-        public int[] Сompletion(int[] arrayСompletion)
+        public int[] FillArray(int[] arrayСompletion)
         {
             Random rand = new Random();
             for (int i = 0; i < arrayСompletion.Length; i++)
@@ -12,7 +12,7 @@ namespace LibArray
             return arrayСompletion;
         }
 
-        public int[,] Сompletion(int[,] arrayСompletion, int first, int second)
+        public int[,] FillArray(int[,] arrayСompletion, int first, int second)
         {
             Random rand = new Random();
             for (int x = 0; x < first; x++)
@@ -21,14 +21,14 @@ namespace LibArray
             return arrayСompletion;
         }
 
-        public int[,,] Сompletion(int[,,] arrayСompletion, int first, int second, int third)
+        public int[,,] FillArray(int[,,] array, int first, int second, int third)
         {
             Random rand = new Random();
             for (int x = 0; x < first; x++)
                 for (int y = 0; y < second; y++)
                     for (int z = 0; z < third; z++)
-                        arrayСompletion[x, y, z] = rand.Next(-60, 60);
-            return arrayСompletion;
+                        array[x, y, z] = rand.Next(-60, 60);
+            return array;
         }
 
         public void View(int[] viewArray)

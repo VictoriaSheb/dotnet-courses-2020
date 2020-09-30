@@ -8,31 +8,30 @@ namespace Task1
         static void Main(string[] args)
         {
             Console.WriteLine("Исходный массив элементов:");
-            int max=default;
-            int min=default;
+            int max;
+            int min;
             int[] array = new int[20];
             ArrayTool tool = new ArrayTool();
-            array=tool.Сompletion(array);
+            array=tool.FillArray(array);
             tool.View(array);
 
-            Max(array,out max);
+            max =Max(array);
             Console.WriteLine("Max=" + max);
 
-            Min(array,out min);
+            min = Min(array);
             Console.WriteLine("Min=" + min);
 
             Console.WriteLine("Сортировка от меньшего к большему значению:");
             Sort(array);
             tool.View(array);
-
             Console.ReadLine();
 
 
            
 
-            int Max(int[] searchInArrayMax,out int maxElement) 
+            int Max(int[] searchInArrayMax) 
             {
-                maxElement = searchInArrayMax[0];
+                int maxElement = searchInArrayMax[0];
                 foreach (int element in searchInArrayMax) 
                 {
                     if (maxElement < element)
@@ -42,9 +41,9 @@ namespace Task1
             }
 
 
-            int Min(int[] searchInArrayMax,out int minElement)
+            int Min(int[] searchInArrayMax)
             {
-                minElement = searchInArrayMax[0];
+                int minElement = searchInArrayMax[0];
                 foreach (int element in searchInArrayMax)
                 {
                     if (minElement > element)

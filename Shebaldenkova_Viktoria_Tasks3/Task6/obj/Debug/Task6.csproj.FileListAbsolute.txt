@@ -1,0 +1,7 @@
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks3\Task6\bin\Debug\Task6.exe.config
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks3\Task6\bin\Debug\Task6.exe
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks3\Task6\bin\Debug\Task6.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks3\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks3\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks3\Task6\obj\Debug\Task6.exe
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\Shebaldenkova_Viktoria_Tasks3\Task6\obj\Debug\Task6.pdb

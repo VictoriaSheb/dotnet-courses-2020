@@ -13,10 +13,11 @@ namespace Task2
             int[,,] array = new int[size1, size2, size3];
 
             ArrayTool tool = new ArrayTool();
-            array=tool.Сompletion(array, size1, size2, size3);
+            array=tool.FillArray(array, size1, size2, size3);
 
             Console.WriteLine("Исходный 3-ехмерный массив:");
             Console.WriteLine();
+        //    array.GetLength(1);
             tool.View(array, size1, size2, size3);
 
             ReplacementForZero(array, size1, size2, size3);

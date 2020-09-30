@@ -1,9 +1,5 @@
 ﻿using LibArray;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Task4
 {
@@ -15,9 +11,9 @@ namespace Task4
             int size2 = 3;
             int[,] array = new int[size1, size2];
             ArrayTool tool = new ArrayTool();
-            array = tool.Сompletion(array, size1, size2);
+            array = tool.FillArray(array, size1, size2);
 
-            Console.WriteLine("2-ехмерный массив:");
+            Console.WriteLine("2-ухмерный массив:");
             Console.WriteLine();
             tool.View(array, size1, size2);
             Console.WriteLine("Сумма элементов, стоящих на четных позициях: "+ SumOfEvenPositions(array, size1, size2));
