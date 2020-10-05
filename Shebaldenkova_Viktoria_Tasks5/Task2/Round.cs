@@ -3,11 +3,11 @@ namespace Task2
 {
     class Round
     {
-        public double x { set; get; }
-        public double y { set; get; }
-        public double radius { get; set; }
+        public double x { get; }
+        public double y { get; }
+        public double radius { get; }
 
-        public double SRound 
+        public double AreaRound 
         {
             get 
             {
@@ -15,7 +15,7 @@ namespace Task2
             }
         }
 
-        public double CRound
+        public double LengthRound
         {
             get
             {
@@ -25,8 +25,6 @@ namespace Task2
 
         public Round(double x, double y, double radius) 
         {
-            if (radius < 0)
-                radius = Math.Abs(radius);
             this.radius = radius;
             this.x = x;
             this.y = y;

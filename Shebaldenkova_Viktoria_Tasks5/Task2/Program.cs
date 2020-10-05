@@ -6,13 +6,18 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-            Round round = new Round(0,0,5);
-            Console.WriteLine("Длина окружности: "+round.CRound);
-            Console.WriteLine("Площадь окружности: " + round.SRound);
-            round.radius = 22;
-            Console.WriteLine("Замена. Радиус равен: " + round.radius);
-            Console.WriteLine("Длина окружности: " + round.CRound);
-            Console.WriteLine("Площадь окружности: " + round.SRound);
+            RoundService roundService = new RoundService();
+
+            roundService.AddNewRound(0, 0, 5);
+            Round round = roundService.round;
+            Console.WriteLine("Длина окружности: "+round.LengthRound);
+            
+            roundService.AddNewRound(0, 0, -1);
+            Round round1 = roundService.round;
+            Console.WriteLine("Длина окружности: " + round1.LengthRound);
+            
+            Console.WriteLine("Длина окружности: " + round.LengthRound);
+            
             Console.ReadLine();
 
         }

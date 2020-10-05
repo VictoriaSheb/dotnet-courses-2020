@@ -10,8 +10,9 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            //User user = new User();
-            User user = new User("Иван","Иванович", "Иванов", new DateTime(3000,1,1));
+            UserService user = new UserService();
+      //    user.AddNewUser("Иван","Иванович", "Иванов", new DateTime(2000,1,1));
+            user.AddNewUser();
             user.LookInformationAboutUser();
         }
     }

@@ -10,15 +10,15 @@ namespace Task3
     {
         static void Main(string[] args)
         {
-            Triangle triangle = new Triangle(5, 8, 3);
-            Console.WriteLine("Периметр треугольника: " + triangle.GetPTriangle());
-            Console.WriteLine("Площадь треугольника: " + triangle.GetSTriangle());
-            triangle.sideA = 5;
-            triangle.sideB = 4;
-            triangle.sideC = 3;
-            Console.WriteLine("Замена. Сторона b равна: " + triangle.sideB);
-            Console.WriteLine("Периметр треугольника: " + triangle.GetPTriangle());
-            Console.WriteLine("Площадь треугольника: " + triangle.GetSTriangle());
+            TriangleService triangleService = new TriangleService();
+            //triangleService.AddNewTriangle(5, 8, 3);
+            //Triangle triangle1 = triangleService.triangle;
+            //Console.WriteLine("Периметр треугольника: " + triangle1.GetPerimeterTriangle());
+            //Console.WriteLine("Площадь треугольника: " + triangle1.GetAreaTriangle());
+            triangleService.AddNewTriangle(5, 4, 3);
+            Triangle triangle2 = triangleService.triangle;
+            Console.WriteLine("Периметр треугольника: " + triangle2.GetPerimeterTriangle());
+            Console.WriteLine("Площадь треугольника: " + triangle2.GetAreaTriangle());
             Console.ReadLine();
         }
     }
