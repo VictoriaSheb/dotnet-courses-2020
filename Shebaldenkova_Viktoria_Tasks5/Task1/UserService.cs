@@ -8,23 +8,22 @@ namespace Task1
 {
     class UserService
     {
-        public User user;
+        private User user;
 
-        public void AddNewUser(string firstName, string middleName, string lastName, DateTime dateOfBirth) 
+        public UserService(User user)
         {
-            DateTime date = DateTime.Now;
-            if (dateOfBirth > date || (date.Year - date.Year > 120))
-            {
-                //значение аргумента вне диапозона допустимых
-                throw new ArgumentOutOfRangeException($"{nameof(dateOfBirth)}", $"Значение не возможно для текущей даты {date.ToShortDateString()} ");
-            }
-            else 
-            {
-                this.user = new User(firstName, middleName, lastName, dateOfBirth);
-            }
+            this.user = user;
         }
 
-        public void AddNewUser() 
+        protected UserService() { }
+
+        public User ReturnUser() 
+        {
+            return user;
+        }
+
+
+        public User AddNewUser() 
         {
             Console.WriteLine("Заполнение данных пользователя:");
             Console.Write("Введите имя: ");
@@ -38,7 +37,7 @@ namespace Task1
             try
             {
                 DateTime dateOfBirth = DateTime.Parse(dateOfBirthString);
-                AddNewUser(firstName, middleName, lastName, dateOfBirth);
+                return user = new User(firstName, middleName, lastName, dateOfBirth);
             }
             catch(FormatException)
             {
@@ -47,14 +46,14 @@ namespace Task1
             }
         }
 
-        public void LookInformationAboutUser()
+        public virtual void LookInformation()
         {
             Console.WriteLine("Данные пользователя:");
-            Console.WriteLine("Имя: " + user.firstName);
-            Console.WriteLine("Отчество: " + user.middleName);
-            Console.WriteLine("Фамилия:" + user.lastName);
-            Console.WriteLine("Дата рождения: " + user.dateOfBirth.ToShortDateString());
-            Console.WriteLine("Возраст: " + user.age);
+            Console.WriteLine("Имя: " + user.FirstName);
+            Console.WriteLine("Отчество: " + user.MiddleName);
+            Console.WriteLine("Фамилия:" + user.LastName);
+            Console.WriteLine("Дата рождения: " + user.DateOfBirth.ToShortDateString());
+            Console.WriteLine("Возраст: " + user.Age);
             Console.ReadLine();
         }
 

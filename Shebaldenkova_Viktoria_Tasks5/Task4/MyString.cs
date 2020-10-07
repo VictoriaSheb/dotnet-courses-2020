@@ -8,15 +8,15 @@ namespace Task4
 {
     class MyString
     {
-        public char[] line { set; get; }
+        public char[] Line { set; get; }
 
         public MyString(string line) 
         {
-            this.line = line.ToCharArray(0, line.Length);
+            this.Line = line.ToCharArray(0, line.Length);
         }
         public MyString(char[] line)
         {
-            this.line = line;
+            this.Line = line;
         }
 
 
@@ -83,6 +83,10 @@ namespace Task4
 
         public static bool operator ==(MyString line1, MyString line2) 
         {
+            if ((object)line1 == null && (object)line2 == null)
+                return true;
+            if ((object)line1 == null || (object)line2 == null)
+                return false;
             if (string.Compare(line1.ToString(), line2.ToString()) == 0)
             {
                 return true;
@@ -113,7 +117,7 @@ namespace Task4
         public override string ToString()
         {
             string lineStb="";
-            foreach (char element in line)
+            foreach (char element in Line)
             {
                 lineStb+=element;
             }

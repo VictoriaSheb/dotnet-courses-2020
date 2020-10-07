@@ -3,32 +3,54 @@ namespace Task2
 {
     class Round
     {
-        public double x { get; }
-        public double y { get; }
-        public double radius { get; }
+        public double X { get; }
+        public double Y { get; }
+        public double Radius { protected set;  get; }
 
-        public double AreaRound 
+
+
+        public virtual double Area
         {
             get 
             {
-                return Math.Round(Math.PI * Math.Pow(radius, 2),2);
+                return Math.Round(Math.PI * Math.Pow(Radius, 2), 2);
             }
         }
 
-        public double LengthRound
+        public virtual double Length
         {
             get
             {
-                return Math.Round(2 *Math.PI *radius,2);
+                return Math.Round(2 *Math.PI *Radius,2);
             }
         }
 
         public Round(double x, double y, double radius) 
         {
-            this.radius = radius;
-            this.x = x;
-            this.y = y;
+            Radius = CheckRadius(radius);
+            X = x;
+            Y = y;
         }
 
+
+        protected Round(double x, double y)
+        {
+            X = x;
+            Y = y;
+        }
+
+        protected double CheckRadius(double radius)
+        {
+            if (radius < 0)
+            {
+                throw new ArgumentException("Значение не может быть меньше нуля", $"{nameof(radius)}");
+            }
+            else
+            {
+                return radius;
+            }
+        }
+
+       
     }
 }

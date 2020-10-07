@@ -10,10 +10,15 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            UserService user = new UserService();
-      //    user.AddNewUser("Иван","Иванович", "Иванов", new DateTime(2000,1,1));
-            user.AddNewUser();
-            user.LookInformationAboutUser();
+            //      UserService userService = new UserService();
+            //   user.AddNewUser("Иван","Иванович", "Иванов", new DateTime(2000,1,1));
+            //      userService.AddNewUser();
+            //      userService.LookInformationAboutUser();
+
+            Employee employee = new Employee("Иван", "Иванович", "Иванов", new DateTime(1980, 1, 1),"Юрист", new DateTime(2002, 1, 1));
+            employee.StatusEmployee = false;
+            EmployeeService employeeService = new EmployeeService(employee);
+            employeeService.LookInformation();
         }
     }
 }
