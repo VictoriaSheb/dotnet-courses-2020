@@ -10,10 +10,10 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            List<int> people1 = RamdomList(7);
-            RemoveEachSecondItem(ref people1);
-            LinkedList<int> people2 = RamdomLinkedList(7);
-            RemoveEachSecondItem(ref people2);
+            List<int> people1 = RamdomList(10);
+            RemoveEachSecondItem(people1);
+            LinkedList<int> people2 = RamdomLinkedList(10);
+            RemoveEachSecondItem(people2);
             Console.WriteLine("List<T> вычеркивание: "+ people1.First());
             Console.WriteLine("LinkedList<T> вычеркивание: " + people2.First());
             Console.ReadLine();
@@ -40,13 +40,13 @@ namespace Task1
             return people;
         }
 
-        public static void RemoveEachSecondItem(ref List<int> list) 
+        public static void RemoveEachSecondItem(ICollection<int> list) 
         {
             for (int i = 1; i < list.Count; i++)
             {
-                list.RemoveAt(i);
-                if (list.Count == 1)
+                 if (list.Count == 1)
                     break;
+                list.Remove(list.ElementAt(i));
                 if ((i + 1) == list.Count)
                     i = -1;
                 if ((i + 1) > list.Count)
@@ -54,20 +54,20 @@ namespace Task1
             }
             
         }
-        public static void RemoveEachSecondItem(ref LinkedList<int> list)
-        {
-            int element = list.First.Next.Value;
-            int elementNext = list.First.Next.Next.Value;
-            while (list.Count != 1)
-            {
-                list.Remove(element);
-                if (list.Count == 1)
-                    break;
-                element = (list.Find(elementNext).Next ?? list.First).Value;
-                elementNext = (list.Find(element).Next ?? list.First).Value;
-            }
+        //public static void RemoveEachSecondItem(ref LinkedList<int> list)
+        //{
+        //    int element = list.First.Next.Value;
+        //    int elementNext = list.First.Next.Next.Value;
+        //    while (list.Count != 1)
+        //    {
+        //        list.Remove(element);
+        //        if (list.Count == 1)
+        //            break;
+        //        element = (list.Find(elementNext).Next ?? list.First).Value;
+        //        elementNext = (list.Find(element).Next ?? list.First).Value;
+        //    }
 
-        }
+        //}
     }
 }
 

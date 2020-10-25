@@ -10,7 +10,7 @@ namespace Task3
             Regex regex = new Regex(@"\b([a-z])(\w+?)\b", RegexOptions.IgnoreCase);
             string text = @"AAa aaa ere Ere, you uuu uuuu uuu .//,.uuu";
             int count = 0;
-            MatchCollection matches = regex.Matches(text.ToLower());
+            MatchCollection matches = regex.Matches(text);
             string[] words = new string[matches.Count];
             foreach (var match in matches)
             {
@@ -23,7 +23,7 @@ namespace Task3
                 {
                     for (int j = i+1; j < words.Length; j++)
                     {
-                        if (words[i] == words[j])
+                        if (words[i].Equals(words[j], StringComparison.InvariantCultureIgnoreCase))
                         {
                             count++;
                             words[j] = null;
