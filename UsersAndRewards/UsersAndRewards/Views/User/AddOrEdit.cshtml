@@ -1,0 +1,70 @@
+﻿@using System.Linq;
+@model UsersAndRewards.Models.UserViewModel
+
+@{
+    ViewData["Title"] = "AddOrEdit";
+}
+
+
+<form asp-action="AddOrEdit">
+    <div class="Info">
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <br>
+        <div class="Row">
+            <div style="width: 45%;">Имя:</div>
+            <div><input asp-for="FirstName" style="width: 100%;" type="text" class="form-control"><span asp-validation-for="FirstName"></span></div>
+        </div>
+        <br>
+        <div class="Row">
+            <div style="width: 45%;">Фамилия:</div>
+            <div><input asp-for="LastName" style="width: 100%;" type="text" class="form-control"><span asp-validation-for="LastName"></span></div>
+        </div>
+        <br>
+        <div class="Row">
+            <div style="width: 45%;">Дата рождения</div>
+            <div><input asp-for="BirthDate" type="date" style="width: 100%;" class="form-control"><span asp-validation-for="BirthDate"></span></div>
+        </div>
+        <br> 
+        <div class="Row" style="height: 30%">
+            <div style="width: 45%; align-self:auto">Награды</div>
+            <div  class="form-control" style="overflow: auto ; height: 80px;background-color:white; align-self:auto; padding-left:3px; padding-right:3px ; padding-top: 1px;  padding-bottom: 1px; ">
+                @for (var i = 0; i < Model.AllRewards.Count; i++)
+                {
+                <div style="display:block ; width:100% ; border-bottom: 1px solid gainsboro ">
+                    <input asp-for="@Model.AllRewards[i].Id" type="hidden" />
+                    <input asp-for="@Model.AllRewards[i].Name" type="hidden" />
+                    <input asp-for="@Model.AllRewards[i].Description" type="hidden" />
+                    <div style="width: 95%; display:table-cell; text-align:left; align-self:auto" asp-for="@Model.AllRewards[i].Name">
+                        @Model.AllRewards[i].Name</div>
+                    <div style="width: 5%; display:table-cell;align-self:auto ">
+                        @Html.CheckBoxFor(Model => Model.AllRewards[i].Checked, new { id = Model.AllRewards[i].Id })
+                    </div>
+                    </div>
+                
+                    }
+
+                </div>
+        </div>
+
+        @{
+
+        }
+        <div class="Row">
+            <p style="width: 100%;">
+                @if (Model.Id == 0)
+                {
+                    <input id="btn" type="submit" value="Добавить" class="btn btn-secondary btn-sm" />
+                }
+                else
+                {
+                  <input id="btn" type="submit" value="Изменить" class="btn btn-secondary btn-sm" />
+                }
+                &nbsp;&nbsp;&nbsp;
+                <a id="btn" asp-action="Index" class="btn btn-secondary btn-sm">Отмена</a>
+            </p>
+        </div>
+    </div>
+
+</form>
+

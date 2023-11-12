@@ -1,0 +1,743 @@
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.exe
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.deps.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.input.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.output.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorCoreGenerate.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CopyComplete
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.Manifest.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.xml
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\333333333333333333333333333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.exe
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.deps.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.input.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.output.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorCoreGenerate.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CopyComplete
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.Manifest.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.xml
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.genruntimeconfig.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Edit.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\Add.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\3333333333\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\Edit.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.exe
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.deps.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.dev.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.input.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.output.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorCoreGenerate.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\AddOrEdit.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\AddOrEdit.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CopyComplete
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.Manifest.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.xml
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.genruntimeconfig.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.exe
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.deps.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.dev.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfoInputs.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfo.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.input.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.output.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorCoreGenerate.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\AddOrEdit.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\Index.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\AddOrEdit.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CopyComplete
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.Manifest.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.xml
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.genruntimeconfig.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.exe
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.deps.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.dev.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfoInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfo.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.input.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.output.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorCoreGenerate.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\AddOrEdit.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\Index.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\AddOrEdit.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CopyComplete
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.Manifest.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.xml
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.genruntimeconfig.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\appsettings.json
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.exe
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.deps.json
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.json
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.runtimeconfig.dev.json
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersRewards.MemoryStorage.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfoInputs.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.AssemblyInfo.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CoreCompileInputs.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.MvcApplicationPartsAssemblyInfo.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorAssemblyInfo.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.input.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.TagHelpers.output.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorCoreGenerate.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\AddOrEdit.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Reward\Index.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\AddOrEdit.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.RazorTargetAssemblyInfo.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.Views.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.CopyComplete
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.Manifest.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.genruntimeconfig.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\bin\Debug\netcoreapp3.1\UsersAndRewards.StaticWebAssets.xml
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.csproj.AssemblyReference.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\UsersAndRewards.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\UsersAndRewards.StaticWebAssets.Pack.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.UsersAndRewards.Microsoft.AspNetCore.StaticWebAssets.props
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.UsersAndRewards.props
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.UsersAndRewards.props
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersAndRewards\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.UsersAndRewards.props

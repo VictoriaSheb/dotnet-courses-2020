@@ -1,0 +1,49 @@
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.deps.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csprojAssemblyReference.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CopyComplete
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.deps.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfoInputs.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfo.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CopyComplete
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.deps.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfoInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfo.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CopyComplete
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.deps.json
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfoInputs.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.AssemblyInfo.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CoreCompileInputs.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.CopyComplete
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.csproj.AssemblyReference.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.DBStorage\obj\Debug\netcoreapp3.1\UsersRewards.DBStorage.GeneratedMSBuildEditorConfig.editorconfig

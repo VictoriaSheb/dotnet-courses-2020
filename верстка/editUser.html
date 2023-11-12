@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <link rel="stylesheet" 
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href=style.css>
+       <title>Пользователи и награды</title>
+    </head>
+    <body>
+    <div class="Menu">
+        <div class="Pages">
+        <button onclick="location.href='main.html'"  class="btn btn-default " >Пользователи</button>
+        <button onclick="location.href='rewards.html'" class="btn btn-default" >Награды</button>
+        </div>
+	</div>
+	
+    <div class="Info" >
+        <br>
+			<div class="Row">
+				<div style="width: 50%;" >Последнее ФИО:</div>
+				<div><input style="width: 100%;" type="text" class="form-control"></div>
+			</div>
+			<br>
+            <div class="Row">
+				<div style="width: 50%;">Новое ФИО:</div>
+				<div><input style="width: 100%;" type="text" class="form-control"></div>
+			</div>
+			<br>
+			<div class="Row">
+				<div style="width: 50%;">Дата рождения</div>
+				<div><input type="text" style="width: 100%;" class="form-control"></div>
+			</div>
+			<br>
+			<div class="Row">
+				<div style="width: 50%;"   >Награда</div>
+				<div ><select name="team" style="width: 100%;" class="custom-select" id="inputGroupSelect01">
+						<option value="№" >Кубок</option>
+						<option value="№" >Кубок</option>
+						<option value="№" >Кубок</option>
+						<option value="№" >Кубок</option>
+						<option value="№" >Кубок</option>
+						<option value="№" >Кубок</option>
+						<option value="№" >Кубок</option>
+						<option value="№" >Кубок</option>
+						<option  value="№" selected>Награды</option>
+					
+					</select>
+				</div>
+			</div>
+			<div class="Row">
+				<br><br><br><br><br>
+
+				<p style="margin-left: 15%;
+				 margin-right: 10%;">
+				<div id="btn" class="btn btn-secondary btn-sm" >Обновить</div>
+				&nbsp;&nbsp;&nbsp;
+				<div id="btn" class="btn btn-secondary btn-sm" onclick="location.href='main.html'" >Отмена</div>
+				</p>
+			</div>
+		</div>
+
+
+    </body>
+    </html>

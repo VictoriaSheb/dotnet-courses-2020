@@ -1,0 +1,39 @@
+﻿@using System.Linq;
+@model UsersAndRewards.Models.RewardViewModel
+
+@{
+    ViewData["Title"] = "AddOrEdit";
+
+}
+<form asp-action="AddOrEdit">
+    <div class="Info">
+        <br><br>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="Row">
+            <div style="width: 40%;">Название:</div>
+            <div><input style="width: 100%;" asp-for="Name" type="text" class="form-control"><span asp-validation-for="Name"></span></div>
+        </div>
+        <br>
+        <div class="Row">
+            <div style="width: 40%;">Описание</div>
+            <textarea rows="4" cols="25" maxlength="25" asp-for="Description" class="form-control" style="width: 50%;"><span asp-validation-for="Description"></span></textarea>
+        </div>
+        <br><br><br><br><br><br>
+        <div class="Row">
+            <p style="width: 100%;">
+                @if (Model.Id == 0)
+                {
+                    <input id="btn" type="submit" value="Добавить" class="btn btn-secondary btn-sm" />
+                }
+                else
+                {
+                    <input id="btn" type="submit" value="Изменить" class="btn btn-secondary btn-sm" />
+                }
+               
+                &nbsp;&nbsp;&nbsp;
+                <a id="btn" asp-action="Index" class="btn btn-secondary btn-sm">Отмена</a>
+            </p>
+        </div>
+
+    </div>
+</form>

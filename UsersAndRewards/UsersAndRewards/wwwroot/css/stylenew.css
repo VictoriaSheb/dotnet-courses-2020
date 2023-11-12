@@ -1,0 +1,163 @@
+body> div> div{
+    position: absolute;
+}
+
+div{
+    border: 1px ;
+    text-align: center;
+    display: inline-block;    
+}
+
+
+
+.Pages{
+    left: 0;
+    top: 16%;
+    height: 64%;
+    width: 25%;
+    margin-left: 0;
+}
+
+.Menu{
+    position: fixed;
+    left: 0;
+    top: 3%;
+    width: 100%;
+    height: 15%;
+    z-index: 2;
+    box-shadow: 0 6px 30px -4px rgba(79, 74, 109, 0.555);
+    background-color: rgba(152, 173, 194, 0.726);
+}
+
+.Menu > .Pages > .btn.btn-default{
+    border-color: rgb(62, 49, 252) ;
+    background-color: rgb(121, 179, 233);
+    left: 0;
+    top: 3%;
+    margin-bottom: 2%;
+    height: 34px;
+    width: 80%;
+    z-index:1;
+}
+.Menu > .Pages > .btn.btn-default:nth-child(2){
+    border-color: rgb(207, 82, 92) ;
+    background-color: rgb(207, 82, 92);
+    z-index: 1;
+}
+
+
+
+.Menu > .btn.btn-default{
+    right: 0;
+    top: 35%;
+    height: 34px;
+    width: 18%;
+    position: absolute;
+    border-color: rgba(58, 173, 125, 0.678); 
+    background-color: rgb(69, 212, 152); 
+}
+
+
+
+.Table_ > div, .Info >.Row{
+    position: static;
+    margin-left: 0;
+    text-align: center;
+    height: 40px; 
+    left: 0;
+    display: flex;
+    right: 0;
+    width: 100%;
+    vertical-align: middle;
+}
+
+
+.Table_{
+    top: 25%;
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    
+}
+
+
+
+.Info{
+    top: 29%;
+    position: absolute;
+    left: 36%;
+    right: 35%;
+    box-shadow: 0 6px 30px -4px rgba(79, 74, 109, 0.555);
+    background-color: rgba(55, 62, 68, 0.336);
+    height: 50%;
+    border-radius: 5px;
+}
+
+.btn.btn-default{
+    height: 6px;
+}
+.Row > div > .btn.btn-secondary.btn-sm{
+    color: black;
+    background: rgb(210, 224, 230);
+    border:rgb(210, 224, 230);
+    height: 26px;
+}
+.Row:nth-child(2n) > div > .btn.btn-secondary.btn-sm{
+    background: rgb(169, 184, 190);
+    border:rgb(140, 151, 156); 
+    
+}
+.Table_ >.Row:nth-child(2n){
+    background: rgb(210, 224, 230);
+}
+
+
+
+.Row > div, .Heading > div {
+    /*display: inline-block;*/
+    display: table-cell;
+    align-self: center;
+   /* border: 1px solid red;*/
+    height: 20px;
+    width: 50%;
+    border-right: 1px solid rgba(110, 120, 151, 0.253);
+}
+
+.Table_ > .Heading{
+    background: rgba(111, 144, 177, 0.664);
+    border:rgb(140, 151, 156);
+}
+
+.Table_ >  .Row >.BoxBtn , .Info > .Row >div {
+    height: 28px;
+    border-right: 0;
+   
+}
+
+.Row > .btn{
+    width: 95px;
+    border:rgba(53, 132, 206, 0.87);
+    background:rgba(15, 77, 192, 0.87);
+    height: 33px;
+}
+
+
+
+.Row >.block > .hidden
+{display: none;
+border-radius: 5px;
+box-shadow: 0 6px 30px 5px rgba(79, 74, 109, 0.555);
+position: absolute;
+width: 25%;
+background-color: white;
+
+}
+    .Row > .block >  .hidden > div {
+        display: block;
+        height: 20px;
+    }
+
+
+.Row > .block >  .hover:hover + .hidden {
+    display: block;
+}

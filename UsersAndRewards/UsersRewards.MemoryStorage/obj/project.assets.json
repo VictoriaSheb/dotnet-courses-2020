@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UsersRewards.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/UsersRewards.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UsersRewards.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsersRewards.Common/1.0.0": {
+      "type": "project",
+      "path": "../UsersRewards.Common/UsersRewards.Common.csproj",
+      "msbuildProject": "../UsersRewards.Common/UsersRewards.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "UsersRewards.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\79156\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\79156\\Documents\\GitHub\\dotnet-courses-2020\\UsersAndRewards\\UsersRewards.MemoryStorage\\UsersRewards.MemoryStorage.csproj",
+      "projectName": "UsersRewards.MemoryStorage",
+      "projectPath": "D:\\Users\\79156\\Documents\\GitHub\\dotnet-courses-2020\\UsersAndRewards\\UsersRewards.MemoryStorage\\UsersRewards.MemoryStorage.csproj",
+      "packagesPath": "C:\\Users\\79156\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\79156\\Documents\\GitHub\\dotnet-courses-2020\\UsersAndRewards\\UsersRewards.MemoryStorage\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\79156\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Users\\79156\\Documents\\GitHub\\dotnet-courses-2020\\UsersAndRewards\\UsersRewards.Common\\UsersRewards.Common.csproj": {
+              "projectPath": "D:\\Users\\79156\\Documents\\GitHub\\dotnet-courses-2020\\UsersAndRewards\\UsersRewards.Common\\UsersRewards.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

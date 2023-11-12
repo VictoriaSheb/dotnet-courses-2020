@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - UsersAndRewards</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/stylenew.css" />
+</head>
+<body>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    
+    <div class="Menu">
+        <div class="Pages">
+            <a class="btn btn-default " asp-area="" asp-controller="User" asp-action="Index">Пользователи</a>
+            <a class="btn btn-default" asp-area="" asp-controller="Reward" asp-action="Index">Награды</a>
+        </div>
+        <a class="btn btn-default" asp-area="" asp-action="AddOrEdit">Добавить</a>
+    </div>
+
+
+
+</body>
+</html>

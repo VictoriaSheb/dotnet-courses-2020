@@ -1,0 +1,37 @@
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.deps.json
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfoInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfo.cs
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\Виктория\Desktop\Дистанционное дз\Практика .NET\Проекты\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.deps.json
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfoInputs.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfo.cs
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.deps.json
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csprojAssemblyReference.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfoInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfo.cs
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csproj.CoreCompileInputs.cache
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.dll
+C:\Users\79156\Desktop\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.deps.json
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\bin\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfoInputs.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.AssemblyInfo.cs
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csproj.CoreCompileInputs.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.dll
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.pdb
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.csproj.AssemblyReference.cache
+D:\univer\Courses_Epam\dotnet-курсы-2020\dotnet-курсы-2020\UsersAndRewards\UsersRewards.Common\obj\Debug\netcoreapp3.1\UsersRewards.Common.GeneratedMSBuildEditorConfig.editorconfig

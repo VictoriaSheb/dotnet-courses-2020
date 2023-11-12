@@ -1,0 +1,66 @@
+﻿@model IEnumerable<UsersAndRewards.Models.UserViewModel>
+
+    @{
+        ViewData["Title"] = "Index";
+        int i = 1;
+    }
+
+    <div class="Table_">
+
+        <div class="Heading">
+            <div style="width: 10%;">№</div>
+            <div style="width: 20%;">Имя</div>
+            <div style="width: 20%;">Фамилия</div>
+            <div style="width: 20%;">Количество наград</div>
+            <div style="width: 30%;">Операции</div>
+
+        </div>
+
+        @foreach (var item in Model)
+        {
+    <div class="Row">
+
+        <div style="width: 10%;">
+            @(i++)
+        </div>
+        <div style="width: 20%;">
+            @Html.DisplayFor(model => item.FirstName)
+        </div>
+        <div style="width: 20%;">
+            @Html.DisplayFor(model => item.LastName)
+        </div>
+        <div class="block" style="width: 20%;">
+            <div class="hover" name="hover">
+                @Html.DisplayFor(model => item.Rewards.Count)
+            </div>
+            <div class="hidden">
+                @foreach (var reward in item.Rewards)
+                {
+                    <div>
+
+                        @Html.DisplayTextFor(model => reward.Name);
+                       
+
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div class="BoxBtn" style="width: 30%;">
+            <a class="btn btn-secondary btn-sm" asp-area="" asp-controller="User" asp-action="AddOrEdit" asp-route-id="@item.Id">
+                Изменить
+            </a>
+            /
+            <a class="btn btn-secondary btn-sm" asp-area="" asp-controller="User"  asp-action="Delete" asp-route-id="@item.Id">
+                Удалить
+            </a>
+        </div>
+
+    </div>
+        }
+
+        <br><br><br>
+        <footer>
+            Пользователи
+        </footer>
+    </div>
